@@ -1,0 +1,5 @@
+Code intended to implement a classification model in order to determine how each of the Temer's speeches would be classified: as a Dilma's speech or as a Lula's speech. In other words, using Temer and Dilma speeches as the training set, how a new example (a single Temer speech) would be classified? As a Dilma or a Temer speech? This could be seen as a measure of similarity between speeches. 
+
+(Speeches extracted by me from Itamaraty (ministry of foreign affairs of Brazil) website. See https://github.com/lasleandro/brazilian_presidents_speeches for the code)
+
+See https://dataisthenewsexyblog.wordpress.com/2017/08/17/github-uma-analise-dos-discursos-dos-presidentes-temer-dilma-e-lula/ for the blog entry (pt-br, sorry).
